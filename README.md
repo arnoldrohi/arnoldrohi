@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnold | Finance Automation Specialist 🇰🇪
 
-<!--
-**arnoldrohi/arnoldrohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 B.Com Finance (Candidate) | Python Developer | n8n Architect
 
-Here are some ideas to get you started:
+I bridge the gap between **Corporate Finance** and **Technical DevOps**. I build autonomous "Digital Employees" that handle financial data, market scraping, and business logic using high-speed cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Technical Core
+- **Logic & Scripting:** Python (Financial Modeling & Data Processing).
+- **AI Intelligence:** Leveraging **Gemini 3 Flash** for high-context financial auditing.
+- **Workflow Engine:** n8n (Self-hosted via Docker).
+- **Infrastructure:** Dual-deployment (Ghost Spectre Local + 1000Mbps DigitalOcean Droplet).
+
+---
+
+## 📂 Featured Work
+👉 **[View My Full Automation Portfolio & Workflows](https://github.com/YOUR_USERNAME/automation-portfolio)**
+
+## 📫 Connect with Me
+- **LinkedIn:** [Insert Your Link]
+- **Email:** [Insert Your Email]
+- **Objective:** Seeking June 2026 Finance/Operations Internship.
