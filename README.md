@@ -15,7 +15,7 @@ I bridge the gap between **Corporate Finance** and **Technical DevOps**. I build
 ---
 
 ## 📂 Featured Work
-👉 **[View My Full Automation Portfolio & Workflows](https://github.com/YOUR_USERNAME/automation-portfolio)**
+👉 **[View My Full Automation Portfolio & Workflows](https://github.com/arnoldrohi/automation-portfolio))**
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Insert Your Link]
